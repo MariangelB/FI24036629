@@ -1,4 +1,4 @@
-package org.example;
+
 
 public interface MyStrackInterface<Type> {
 
@@ -15,3 +15,4 @@ public interface MyStrackInterface<Type> {
 
 
 }
+
